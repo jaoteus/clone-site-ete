@@ -49,7 +49,35 @@
     align-items: center;
     padding: 13px;
     background-color: #375576;
+    border: 1px solid black;
 }
 .footer-content-p{
     color: white;
+    border: 1px solid black;
+}
+.container-content-h1{
+    margin: 12px;
+    border: 1px solid black;
+}
+.container-content-ds{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    border: 1px solid black;
+}
+.container-content-ds-h1{
+    margin: 12px 0;
+}
+.container-content-ds-eixotec-p2{
+    margin: 15px 0;
+}
+.container-content-ds-eixotec-p1{
+    margin: 15px 0;
+}
+
+.container-content-ds-eixotec-p3{
+    margin: 15px 0;
+}
+.container-content-ds-eixotec-p4{
+    margin: 15px 0;
 }
